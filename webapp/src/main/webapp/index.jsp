@@ -12,6 +12,7 @@ div {text-align: center;}
 <h1 style="color:blue;"> Version: 1.27 - Running on Ansible server to create a container on Docker Server - Subscribe my channel and keep learning Phone 2404291630
    Email: william.atonfack@gmail.com steve  steve </h1>
    <h2> Keep learn devops class </h2>
+    <h2> Keep learn devops class2 </h2>
 </body>
 </html>
 
