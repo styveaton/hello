@@ -21,8 +21,6 @@ div {text-align: center;}
    <h1>url git sur github git clone https://aton1985@bitbucket.org/aton1ATONFACK STEVEV WILLIAM ATONFACK  </h1>
    <h1>url git sur github git clone https://aton1985@bitbucket.org/aton1ATONFACK STEVEV WILLIAM ATONFACK  </h1>
    <h1>url git sur github git clone https://aton1985@bitbucket.org/aton1ATONFACK STEVEV WILLIAM ATONFACK  </h1>
-   <h1>url steve william </h1>
-   <h1>url MKT MKT MKT</h1>
    <h1>projet version 12.20</h1>
 </body>
 </html>
